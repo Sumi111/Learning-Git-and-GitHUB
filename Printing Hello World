@@ -2,5 +2,7 @@
 
 int main(void)
 {
-  printf("Hello, World!");
+  Printf("Whats your name?");
+  scanf("%s", name);
+  printf("Hello, %s!",name);
 }
