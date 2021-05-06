@@ -6,4 +6,5 @@ int main(void)
   scanf("%s", name);
   printf("Hello, %s!",name);
   printf("Have a wonderful day");
+  printf("ok bye!");
 }
