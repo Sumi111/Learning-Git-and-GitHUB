@@ -5,6 +5,6 @@ int main(void)
   Printf("Whats your name?");
   scanf("%s", name);
   printf("Hello, %s!",name);
-  printf("Have a wonderful day");
+  printf("Good day!!");
   printf("ok bye!");
 }
